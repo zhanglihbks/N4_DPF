@@ -1,0 +1,13 @@
+.\Obj\spi_flash.o: User\SPI_Flash.c
+.\Obj\spi_flash.o: d:\Keil\ARM\INC\ST\STM32F10x\stm32f10x.h
+.\Obj\spi_flash.o: d:\Keil\ARM\RV31\INC\core_cm3.h
+.\Obj\spi_flash.o: d:\Keil\ARM\RV31\INC\stdint.h
+.\Obj\spi_flash.o: d:\Keil\ARM\INC\ST\STM32F10x\system_stm32f10x.h
+.\Obj\spi_flash.o: d:\Keil\ARM\INC\ST\STM32F10x\stm32f10x_conf.h
+.\Obj\spi_flash.o: d:\Keil\ARM\INC\ST\STM32F10x\stm32f10x_type.h
+.\Obj\spi_flash.o: User\SPI_Flash.h
+.\Obj\spi_flash.o: .\FWlib\inc\stm32f10x_spi.h
+.\Obj\spi_flash.o: .\FWlib\inc\stm32f10x_map.h
+.\Obj\spi_flash.o: .\user\stm32f10x_conf.h
+.\Obj\spi_flash.o: .\FWlib\inc\stm32f10x_type.h
+.\Obj\spi_flash.o: .\FWlib\inc\cortexm3_macro.h
