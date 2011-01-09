@@ -1,0 +1,1 @@
+-c --device DARMSTM -g -O0 --apcs=interwork -I.\FWlib\inc -I.\user -I "d:\Keil\ARM\INC\ST\STM32F10x" -DUSE_STDPERIPH_DRIVER -DSTM32F10X_HD -o ".\Obj\picture3.o" --omf_browse ".\Obj\picture3.crf" --depend ".\Obj\picture3.d" "User\picture3.c"
